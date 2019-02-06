@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
                 R.drawable.ball2,
                 R.drawable.ball3,
                 R.drawable.ball4,
-                R.drawable.ball5
+                R.drawable.ball5 
         };
 
         askButton.setOnClickListener(new View.OnClickListener() {
